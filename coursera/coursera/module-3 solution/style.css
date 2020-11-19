@@ -10,8 +10,12 @@
 
 .navbar-brand{
   font-size: 35px;
-  color: white;
+  color: grey;
   padding-left: 25px;
+}
+.navbar-brand:hover{
+	background-color:grey;
+	text-decoration:underline;
 }
 
 .navbar-brand:hover{
