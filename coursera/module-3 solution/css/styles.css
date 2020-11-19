@@ -1,11 +1,11 @@
 body {
-	background-color: #D3D3D3;
-	font-family: 'Merienda One', cursive, sans-serif;
+	background-color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
 	color: #000080;
 	font-size: 175%;
 }
 nav.navbar{
-	background-color: #DA70D6;
+	background-color: #808080;
 }
 nav .navbar-header {
 	padding-top: 20px;
