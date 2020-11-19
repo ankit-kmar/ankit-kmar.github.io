@@ -67,9 +67,9 @@ li{
 	display: block;
 }
 
-.menu-item:hover{
-	background-color: rgba(0,0,0,0.9);
-	color: rgba(0,0,0,0.4);
+h1:hover{
+	background-color: yellow;
+        text-decoration: underline;
 }
 
 
