@@ -48,6 +48,9 @@
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-weight: bold;
 }
+.main-title:hover {
+  background-color: yellow;
+}
 
 li{
 	box-sizing: border-box;
