@@ -1,6 +1,6 @@
 body {
-	background-color: #FFFFFF;
-	font-family: 'Roboto', sans-serif;
+	background-color: #696969;
+	font-family: 'Baloo 2', cursive;
 	color: #000080;
 	font-size: 175%;
 }
@@ -45,7 +45,7 @@ hr {
 section {
 	border: 2px solid black;
 	padding: 10px;
-	background-color: #B0E0E6;
+	background-color: #696969;
 	border-radius: 10px;
 }
 h1 {
