@@ -14,7 +14,7 @@
   padding-left: 25px;
 }
 .navbar-brand:hover{
-	background-color:grey;
+	font-color:grey;
 	text-decoration:underline;
 }
 
@@ -52,9 +52,7 @@
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-weight: bold;
 }
-.main-title:hover {
-  background-color: yellow;
-}
+
 
 li{
 	box-sizing: border-box;
@@ -72,7 +70,7 @@ li{
 }
 
 h1:hover{
-	background-color: yellow;
+	font-color: yellow;
         text-decoration: underline;
 }
 
