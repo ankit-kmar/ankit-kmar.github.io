@@ -14,7 +14,7 @@
   padding-left: 25px;
 }
 .navbar-brand:hover{
-	font-color:grey;
+	color:grey;
 	text-decoration:underline;
 }
 
@@ -70,7 +70,7 @@ li{
 }
 
 h1:hover{
-	font-color: yellow;
+	color: yellow;
         text-decoration: underline;
 }
 
